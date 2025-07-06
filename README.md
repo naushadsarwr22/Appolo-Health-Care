@@ -21,4 +21,4 @@ A concise, descriptive name for the dashboard. Example: ❄️ Snowy Analytics: 
 
 
 ## Dashboard
-<img src="https://github.com/naushadsarwr22/Appolo-Health-Care/blob/main/Appolo%20Health%20Care%20Center_PowerBi.png" width="600" height="400">
+<img src="https://github.com/naushadsarwr22/Appolo-Health-Care/blob/main/Appolo%20Health%20Care%20Center_PowerBi.png" width="800" height="400">
