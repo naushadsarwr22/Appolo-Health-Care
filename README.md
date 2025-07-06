@@ -17,7 +17,7 @@ A concise, descriptive name for the dashboard. Example: ❄️ Snowy Analytics: 
 ## Feature 2
 A concise, descriptive name for the dashboard. Example: ❄️ Snowy Analytics: Global Ski Resort Insights Dashboard A dynamic, interactive data visualization tool built to explore ski resort data worldwide—focusing on regional comparisons, resort attributes, terrain complexity, and skier suitability. interactive data visualization tool built to explore ski resort data worldwide—focusing on regional comparisons, resort attributes, terrain complexity, and skier suitability.
 
-<img src="https://github.com/naushadsarwr22/Appolo-Health-Care/blob/main/applolo%20health%20feedback%20volume%20for%20doctors.png" width="400" height="400">
+<img src="https://github.com/naushadsarwr22/Appolo-Health-Care/blob/main/applolo%20health%20feedback%20volume%20for%20doctors.png" width="400" height="300">
 
 
 ## Dashboard
