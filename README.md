@@ -9,4 +9,7 @@ A concise, descriptive name for the dashboard. Example: ❄️ Snowy Analytics: 
 ## Dashboard
 ![Screenshot (95)](https://github.com/naushadsarwr22/Appolo-Health-Care/blob/main/Appolo%20Health%20Care%20Center_PowerBi.png)
 
-<img src="https://github.com/naushadsarwr22/Appolo-Health-Care/blob/main/Appolo%20Health%20Care%20Center_PowerBi.png" width="500" height="600">
+
+2. Project Title / Headline
+A concise, descriptive name for the dashboard. Example: ❄️ Snowy Analytics: Global Ski Resort Insights Dashboard A dynamic, interactive data visualization tool built to explore ski resort data worldwide—focusing on regional comparisons, resort attributes, terrain complexity, and skier suitability.
+<img src="https://github.com/naushadsarwr22/Appolo-Health-Care/blob/main/Appolo%20Health%20Care%20Center_PowerBi.png" width="400" height="400">
