@@ -7,4 +7,4 @@ A concise, descriptive name for the dashboard. Example: ❄️ Snowy Analytics: 
 -<a href="https://github.com/naushadsarwr22/Appolo-Health-Care/blob/main/applolo%20health%20bed%20occupency.png">type image name here</a>
 
 ## Dashboard
-![Screenshot (495)](https://github.com/naushadsarwr22/Appolo-Health-Care/blob/main/Appolo%20Health%20Care%20Center_PowerBi.png)
+![Screenshot (195)](https://github.com/naushadsarwr22/Appolo-Health-Care/blob/main/Appolo%20Health%20Care%20Center_PowerBi.png)
