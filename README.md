@@ -46,7 +46,7 @@ Using this feature, the health care facility receives data as how hospital is pe
 
 * Insurance Count
 By filtering this option, the facility will be able to know the method of payment patients will be able to pay off their medical bills. Using this feature, the health care facility will know the trend of payment method and have their financial figures at any time.
-<img src="https://github.com/naushadsarwr22/Appolo-Health-Care/blob/main/KPIs.png" width="400" height="400">
+<img src="https://github.com/naushadsarwr22/Appolo-Health-Care/blob/main/Insurance%20Count.png" width="400" height="400">
 
 * Patient Synopsis
 This feature provides an overall summary of the patient including doctor in attendance, diagnosis history, payment method, and bed occupancy. A vital tool to brief the patient history in a nutshell.
