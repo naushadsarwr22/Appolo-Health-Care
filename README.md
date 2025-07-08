@@ -38,7 +38,7 @@ This filter will help you find what kind of bed/room the patient was provided wi
 
 * Feedback Volume for Doctors
 This feature will indicate the feedback percentage of each doctor from patients. This filter helps in highlighting the doctor’s performance towards their patients and hence applying this feature, the health care facility gets clear picture of the Hospital performance.
-<img src="https://github.com/naushadsarwr22/Appolo-Health-Care/blob/main/KPIs.png" width="400" height="400">
+<img src="https://github.com/naushadsarwr22/Appolo-Health-Care/blob/main/applolo%20health%20feedback%20volume%20for%20doctors.png" width="400" height="400">
 
 * Types of Diagnosis
 Using this feature, the health care facility receives data as how hospital is performing in dealing with inpatient diagnosis and what ratio of diseases they are encountering with. A great tool to measure the performance of their medical staff that also indicates any inclination or outbreak of symptoms they should be ready for in the future.
