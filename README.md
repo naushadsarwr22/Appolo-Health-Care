@@ -42,7 +42,7 @@ This feature will indicate the feedback percentage of each doctor from patients.
 
 * Types of Diagnosis
 Using this feature, the health care facility receives data as how hospital is performing in dealing with inpatient diagnosis and what ratio of diseases they are encountering with. A great tool to measure the performance of their medical staff that also indicates any inclination or outbreak of symptoms they should be ready for in the future.
-<img src="https://github.com/naushadsarwr22/Appolo-Health-Care/blob/main/KPIs.png" width="400" height="400">
+<img src="https://github.com/naushadsarwr22/Appolo-Health-Care/blob/main/Types%20of%20Diagnosis.png" width="400" height="400">
 
 * Insurance Count
 By filtering this option, the facility will be able to know the method of payment patients will be able to pay off their medical bills. Using this feature, the health care facility will know the trend of payment method and have their financial figures at any time.
