@@ -28,6 +28,7 @@ Data used in this project is extracted form www.kaggle.com that provided a detai
 Key KPIs (Top Middle); These four KPIs will give you numeric data calculation displaying patient’s Admit dates, Discharge dates, Follow up dates and total billing amount in Millions.
 <img src="https://github.com/naushadsarwr22/Appolo-Health-Care/blob/main/KPIs.png" width="400" height="400">
 
+
 * Filter and Slicer
 Filters featured on the top will help you find information on specific patients and by selecting a Patient_ID will display all the statistics of that particular patient. Whereas filter “Date Range” on the top helps you display information within a date range picked. This feature will give you an overall statistic for a period of time.
 <img src="https://github.com/naushadsarwr22/Appolo-Health-Care/blob/main/Slicers.png" width="400" height="400">
@@ -54,7 +55,7 @@ This feature provides an overall summary of the patient including doctor in atte
 
 * Diagnosis VS Insurance
 This feature includes patient diagnosis, total billing amount and method of payment. This filter will compare these three factors and provide a chart that is beneficial for the health care management.
-<img src="https://github.com/naushadsarwr22/Appolo-Health-Care/blob/main/KPIs.png" width="400" height="400">
+<img src="https://github.com/naushadsarwr22/Appolo-Health-Care/blob/main/Diagnosis%20VS%20Insurance.png" width="400" height="400">
 
 
 ## Feature 1
