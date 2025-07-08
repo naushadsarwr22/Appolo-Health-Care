@@ -28,8 +28,6 @@ Data used in this project is extracted form www.kaggle.com that provided a detai
 Key KPIs (Top Middle); These four KPIs will give you numeric data calculation displaying patient’s Admit dates, Discharge dates, Follow up dates and total billing amount in Millions.
 <img src="https://github.com/naushadsarwr22/Appolo-Health-Care/blob/main/KPIs.png" width="400" height="400">
 
-
-
 * Filter and Slicer
 Filters featured on the top will help you find information on specific patients and by selecting a Patient_ID will display all the statistics of that particular patient. Whereas filter “Date Range” on the top helps you display information within a date range picked. This feature will give you an overall statistic for a period of time.
 <img src="https://github.com/naushadsarwr22/Appolo-Health-Care/blob/main/Slicers.png" width="400" height="400">
@@ -59,16 +57,5 @@ This feature includes patient diagnosis, total billing amount and method of paym
 <img src="https://github.com/naushadsarwr22/Appolo-Health-Care/blob/main/Diagnosis%20VS%20Insurance.png" width="400" height="400">
 
 
-## Feature 1
-A concise, descriptive name for the dashboard. Example: ❄️ Snowy Analytics: Global Ski Resort Insights Dashboard A dynamic, interactive data visualization tool built to explore ski resort data worldwide—focusing on regional comparisons, resort attributes, terrain complexity, and skier suitability. interactive data visualization tool built to explore ski resort data worldwide—focusing on regional comparisons, resort attributes, terrain complexity, and skier suitability.
-
-<img src="https://github.com/naushadsarwr22/Appolo-Health-Care/blob/main/Appolo%20Health%20Care%20Center_PowerBi.png" width="400" height="400">
-
-## Feature 2
-A concise, descriptive name for the dashboard. Example: ❄️ Snowy Analytics: Global Ski Resort Insights Dashboard A dynamic, interactive data visualization tool built to explore ski resort data worldwide—focusing on regional comparisons, resort attributes, terrain complexity, and skier suitability. interactive data visualization tool built to explore ski resort data worldwide—focusing on regional comparisons, resort attributes, terrain complexity, and skier suitability.
-
-<img src="https://github.com/naushadsarwr22/Appolo-Health-Care/blob/main/applolo%20health%20feedback%20volume%20for%20doctors.png" width="400" height="400">
-
-
 ## Dashboard
-<img src="https://github.com/naushadsarwr22/Appolo-Health-Care/blob/main/Appolo%20Health%20Care%20Center_PowerBi.png" width="800" height="300">
+<img src="https://github.com/naushadsarwr22/Appolo-Health-Care/blob/main/Appolo%20Health%20Care%20Center_PowerBi.png" width="800" height="400">
