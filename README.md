@@ -50,7 +50,7 @@ By filtering this option, the facility will be able to know the method of paymen
 
 * Patient Synopsis
 This feature provides an overall summary of the patient including doctor in attendance, diagnosis history, payment method, and bed occupancy. A vital tool to brief the patient history in a nutshell.
-<img src="https://github.com/naushadsarwr22/Appolo-Health-Care/blob/main/KPIs.png" width="400" height="400">
+<img src="https://github.com/naushadsarwr22/Appolo-Health-Care/blob/main/Patient%20Synopsis.png" width="400" height="400">
 
 * Diagnosis VS Insurance
 This feature includes patient diagnosis, total billing amount and method of payment. This filter will compare these three factors and provide a chart that is beneficial for the health care management.
