@@ -58,4 +58,4 @@ This feature includes patient diagnosis, total billing amount and method of paym
 
 
 ## Dashboard
-<img src="https://github.com/naushadsarwr22/Appolo-Health-Care/blob/main/Appolo%20Health%20Care%20Center_PowerBi.png" width="800" height="400">
+<img src="https://github.com/naushadsarwr22/Appolo-Health-Care/blob/main/Appolo%20Health%20Care%20Center_PowerBi.png" width="900" height="600">
