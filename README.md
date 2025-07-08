@@ -34,7 +34,7 @@ Filters featured on the top will help you find information on specific patients 
 
 * Bed Occupancy Chart
 This filter will help you find what kind of bed/room the patient was provided with during his/her occupancy .
-<img src="https://github.com/naushadsarwr22/Appolo-Health-Care/blob/main/KPIs.png" width="400" height="400">
+<img src="https://github.com/naushadsarwr22/Appolo-Health-Care/blob/main/applolo%20health%20bed%20occupency.png" width="400" height="400">
 
 * Feedback Volume for Doctors
 This feature will indicate the feedback percentage of each doctor from patients. This filter helps in highlighting the doctor’s performance towards their patients and hence applying this feature, the health care facility gets clear picture of the Hospital performance.
