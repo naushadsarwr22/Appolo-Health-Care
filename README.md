@@ -1,7 +1,6 @@
-# Appolo-Health-Care
+# Appolo-Health-Care-Hospital
 
-1. Project Title / Headline
-A concise, descriptive name for the dashboard. Example: ❄️ Snowy Analytics: Global Ski Resort Insights Dashboard A dynamic, interactive data visualization tool built to explore ski resort data worldwide—focusing on regional comparisons, resort attributes, terrain complexity, and skier suitability.
+Appolo Health Care Hospital Dashboard is a dynamic and an interactive data visualization tool built to explore patient statical report based on categorized pattern specially design for health care facilities.  It collects patient data as soon as they enter the facility until they are discharged by the medical professional. This data enables the hospital to maintain medical records of the patient and helps understand servicing the health care industry efficiently and effectively.
 
 -<a href="https://github.com/naushadsarwr22/Appolo-Health-Care/blob/main/Appolo%20Health%20Care%20Center_PowerBi.png">Dashboard Image</a>
 
