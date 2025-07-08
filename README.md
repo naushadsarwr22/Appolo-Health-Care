@@ -9,6 +9,7 @@ The Appolo Health Care Hospital Dashboard is a visually engaging tool and this a
 
 ## Tech Stack
 The dashboard was built using the following tools and technologies:
+
 • 📊 Power BI Desktop – Main data visualization platform used for report creation.
 
 • 📂 Power Query – Data transformation and cleaning layer for reshaping and preparing the data.
