@@ -23,6 +23,30 @@ The dashboard was built using the following tools and technologies:
 ## Data Source
 Data used in this project is extracted form www.kaggle.com that provided a detailed excel sheet to help create this dynamic dashboard.
 
+## Walkthrough of KPIs and Key Visuals
+* KPIs
+Key KPIs (Top Middle); These four KPIs will give you numeric data calculation displaying patient’s Admit dates, Discharge dates, Follow up dates and total billing amount in Millions. 
+
+* Filter and Slicer
+Filters featured on the top will help you find information on specific patients and by selecting a Patient_ID will display all the statistics of that particular patient. Whereas filter “Date Range” on the top helps you display information within a date range picked. This feature will give you an overall statistic for a period of time.
+
+* Bed Occupancy Chart
+This filter will help you find what kind of bed/room the patient was provided with during his/her occupancy . 
+
+* Feedback Volume for Doctors
+This feature will indicate the feedback percentage of each doctor from patients. This filter helps in highlighting the doctor’s performance towards their patients and hence applying this feature, the health care facility gets clear picture of the Hospital performance.
+
+* Types of Diagnosis
+Using this feature, the health care facility receives data as how hospital is performing in dealing with inpatient diagnosis and what ratio of diseases they are encountering with. A great tool to measure the performance of their medical staff that also indicates any inclination or outbreak of symptoms they should be ready for in the future.
+
+* Insurance Count
+By filtering this option, the facility will be able to know the method of payment patients will be able to pay off their medical bills. Using this feature, the health care facility will know the trend of payment method and have their financial figures at any time.
+
+* Patient Synopsis
+This feature provides an overall summary of the patient including doctor in attendance, diagnosis history, payment method, and bed occupancy. A vital tool to brief the patient history in a nutshell.
+
+* Diagnosis VS Insurance
+This feature includes patient diagnosis, total billing amount and method of payment. This filter will compare these three factors and provide a chart that is beneficial for the health care management.
 
 
 ## Feature 1
