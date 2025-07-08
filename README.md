@@ -20,6 +20,10 @@ The dashboard was built using the following tools and technologies:
 
 • 📁 File Format – .pbix for development and .png for dashboard previews.
 
+## Data Source
+Data used in this project is extracted form www.kaggle.com that provided a detailed excel sheet to help create this dynamic dashboard.
+
+
 
 ## Feature 1
 A concise, descriptive name for the dashboard. Example: ❄️ Snowy Analytics: Global Ski Resort Insights Dashboard A dynamic, interactive data visualization tool built to explore ski resort data worldwide—focusing on regional comparisons, resort attributes, terrain complexity, and skier suitability. interactive data visualization tool built to explore ski resort data worldwide—focusing on regional comparisons, resort attributes, terrain complexity, and skier suitability.
