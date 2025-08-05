@@ -25,6 +25,7 @@ Data used in this project is extracted form www.kaggle.com that provided a detai
 
 ## Walkthrough of KPIs and Key Visuals
 * KPIs
+  
 Key KPIs (Top Middle); These four KPIs will give you numeric data calculation displaying patient’s Admit dates, Discharge dates, Follow up dates and total billing amount in Millions.
 <img src="https://github.com/naushadsarwr22/Appolo-Health-Care/blob/main/KPIs.png" width="400" height="400">
 
